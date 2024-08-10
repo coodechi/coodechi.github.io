@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktinasaurus=self.webpackChunktinasaurus||[]).push([[5590],{8216:a=>{a.exports=JSON.parse('{"tag":{"label":"facebook","permalink":"/tags/facebook","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
